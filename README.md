@@ -1,6 +1,9 @@
-# Striver-AtoZ-Solution-HacktoberFest-2023
 
-Welcome to the Striver-AtoZ-Solution-HacktoberFest-2023 repository!
+## Join our [telegram-group](https://t.me/SDE_telegram)
+
+# HacktoberFest-2023
+
+Welcome to the HacktoberFest-2023 repository!
 
 ## Motive
 This repository is dedicated to organizing and merging solutions to Data Structure and Algorithm (DSA) questions from Striver's DSA sheet. The primary goal is to create a comprehensive and structured collection of DSA solutions that can serve as a valuable resource for learners and enthusiasts.
